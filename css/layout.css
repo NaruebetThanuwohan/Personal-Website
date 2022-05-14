@@ -40,7 +40,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  
+  color: #a6a7aa;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -493,7 +493,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list-item {
-  color: #000;
+  color: #cbd3e1;
   margin-bottom: 25px;
 }
 
