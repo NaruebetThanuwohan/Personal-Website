@@ -34,6 +34,8 @@ body {
   font-family: Hind, sans-serif;
 }
 
+
+
 p {
   font-size: 15px;
   font-weight: 400;
@@ -496,7 +498,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list-link {
-  color: #cbd3e1;
+  color: #000;
 }
 
 .footer .footer-list-link:hover {
@@ -1560,3 +1562,16 @@ fieldset[disabled] .btn-theme {
 .height-400 {
   height: 400px !important;
 }
+
+/*--------------------------------------------------
+    Custom Classes (Additional) 
+----------------------------------------------------*/
+p.sub-heading {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Hind, sans-serif;
+  color: #ffffff;
+  line-height: 1.4;
+  margin-bottom: 15px;
+} 
+
